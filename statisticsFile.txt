@@ -1,0 +1,4 @@
+Number of Customers: 4
+Number of Appointments: 3
+Total Income From Tests: $700.0
+
